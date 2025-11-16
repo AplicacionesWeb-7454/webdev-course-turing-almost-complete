@@ -6,7 +6,7 @@ requiere descargas!** Solo abre tu navegador web.
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
+**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/AplicacionesWeb-7454/webdev-course-turing-almost-complete.git)
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
