@@ -39,7 +39,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/AplicacionesWeb-7454/webdev-course-turing-almost-complete.git)
 - **Todas las Actividades Prácticas**:
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
@@ -57,8 +57,10 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 202520
 1ASI0730 Aplicaciones Web
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de su equipo]
-**Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
-**Fecha de entrega**: [Fecha]
+NRC [7454]
+**Nombre del equipo**: [Turing Almost Complete]
+**Líder del equipo**: [Jareth Beycker Vidal Malaga]
+**Integrantes del equipo**: [Diego Seminario]
+**Integrantes del equipo**: [Edson Llamozas]
+**Integrantes del equipo**: [Alejandro Mendoza]
+**Fecha de entrega**: [16/11/2025]
