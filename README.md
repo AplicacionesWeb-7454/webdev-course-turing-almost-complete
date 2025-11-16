@@ -27,7 +27,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=qQ6gqBfLAvE)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://jsfiddle.net/Jareth/L7r1s689) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
@@ -46,7 +46,7 @@ requiere descargas!** Solo abre tu navegador web.
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/Jareth-Vidal/pen/VYamEWv) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
+| 4 | Estilo de la página | [JSFiddle](https://jsfiddle.net/Jareth/L7r1s689) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - Compartir: #WebDevBeginners
